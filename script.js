@@ -63,5 +63,5 @@ const colorBox = document.getElementById('colorBox');
 
 button.addEventListener('click', function() {
 
-    colorBox.style.backgroundColor = 'blue;
+    colorBox.style.backgroundColor = `blue`;
 });
